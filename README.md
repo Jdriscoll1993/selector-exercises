@@ -1,1 +1,1 @@
-# selector-exercises
+# CSS Selector exercises from class
